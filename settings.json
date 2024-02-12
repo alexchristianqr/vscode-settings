@@ -1,0 +1,44 @@
+{
+    "window.zoomLevel": 0,
+    /* SECURITY */
+    "security.workspace.trust.untrustedFiles": "open",
+    /* TERMINAL */
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.copyOnSelection": true,
+    /* EDITOR */
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "editor.overviewRulerBorder": false,
+    "editor.hover.enabled": true,
+    "editor.hover.above": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.find.cursorMoveOnType": true,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.minimap.enabled": true,
+    "editor.suggest.preview": true,
+    "editor.stablePeek": true,
+    "editor.minimap.size": "proportional",
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "editor.letterSpacing": 0,
+    "editor.trimAutoWhitespace": false,
+    "editor.tabCompletion": "on",
+    "editor.fontLigatures": true,
+    "editor.guides.indentation": true,
+    "editor.wordWrap": "off",
+    /* BREADCRUMBS */
+    "breadcrumbs.enabled": false,
+    /* LANGUAGES */
+    "typescript.format.semicolons": "insert",
+    "typescript.format.enable": true,
+    "javascript.format.semicolons": "insert",
+    "javascript.format.enable": true,
+    /* WORKBENCH */
+    "workbench.preferredDarkColorTheme": "Visual Studio Dark",
+    "workbench.sideBar.location": "left",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.statusBar.visible": true,
+    /* FILES */
+    "files.autoSave": "afterDelay",
+    "files.refactoring.autoSave": true
+}
